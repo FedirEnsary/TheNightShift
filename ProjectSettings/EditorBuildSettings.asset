@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2c5d603cd24526b179c4714578647a77
+  - enabled: 1
+    path: Assets/Scenes/Office.unity
+    guid: a191c46f8692d6840b648619813abfb8
+  - enabled: 1
+    path: Assets/Scenes/A Bathroom.unity
+    guid: ebe6b6942bc5754738e789fa7d848dd1
+  - enabled: 1
+    path: Assets/Scenes/B Bathroom.unity
+    guid: 3601f6e0174707aa29142fd0ae04a032
+  - enabled: 1
+    path: Assets/Scenes/East Hall.unity
+    guid: 63d9b0a141ca03d34964e891d70f1362
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 00aed4c4bdb0ab5de991aeff2176ff9e
+  - enabled: 1
+    path: Assets/Scenes/Main Room.unity
+    guid: 930a68aced438ce28a681aa1e17a9719
+  - enabled: 1
+    path: Assets/Scenes/Side Hallway.unity
+    guid: 75d0e6f90cf985ae6b58dc2870ba8dce
+  - enabled: 1
+    path: Assets/Scenes/Stage.unity
+    guid: f5105c9ce17d370c694b7020b29b7c6a
+  - enabled: 1
+    path: Assets/Scenes/Supply Closet.unity
+    guid: e00f7e027a05383ccb7b618396c64e9e
+  - enabled: 1
+    path: Assets/Scenes/West Hall.unity
+    guid: 468ab8526d03c384abc477bb37fa4e44
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 486d23bfa9aebee4c988045124f1d395
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 9e139fe35ad7eb619926f8dece50a3de
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
